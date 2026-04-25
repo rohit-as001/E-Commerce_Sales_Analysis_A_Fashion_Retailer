@@ -11,6 +11,13 @@ The dashboard provides a comprehensive view of sales trends, customer demographi
 It allows dynamic filtering by Gender and Age Group, helping uncover deeper customer insights.
 
 
+## Key KPIs
+- Total Sales: 21.2M
+- Total Quantity: 31.2K
+- Top State: Maharashtra (2.99M)
+- Top City: Bengaluru (1.77M)
+
+
 
 # Key Insights
 
