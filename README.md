@@ -80,6 +80,16 @@ It allows dynamic filtering by Gender and Age Group, helping uncover deeper cust
   - Introduce offers to attract younger and senior segments.
 
 
+## Tools & Technologies
+- Visualization Tool: Power BI/Excel Dashboard
+- Dataset: E-Commerce Sales Data
+- **Skills Applied:**
+  - Data Cleaning & Transformation
+  - Sales Trend Analysis
+  - Channel & Category Performance Analysis
+
+
+
 Conclusion
 
 This dashboard provides a complete view of e-commerce performance, helping businesses understand customer behavior, sales trends, and growth opportunities.
