@@ -10,6 +10,15 @@ The dashboard provides a comprehensive view of sales trends, customer demographi
 
 It allows dynamic filtering by Gender and Age Group, helping uncover deeper customer insights.
 
+## Business Objectives
+- Track overall sales and quantity performance
+- Identify top-performing sales channels
+- Analyze monthly sales trends
+- Understand B2B vs B2C contributions
+- Evaluate order status and return behavior
+- Identify top-performing product categories
+
+
 
 ## Key KPIs
 - Total Sales: ₹21.2M
