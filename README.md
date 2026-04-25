@@ -12,10 +12,10 @@ It allows dynamic filtering by Gender and Age Group, helping uncover deeper cust
 
 
 ## Key KPIs
-- Total Sales: 21.2M
+- Total Sales: ₹21.2M
 - Total Quantity: 31.2K
-- Top State: Maharashtra (2.99M)
-- Top City: Bengaluru (1.77M)
+- Top Selling State: Maharashtra (₹2.99M)
+- Top Selling City: Bengaluru (₹1.77M)
 
 
 
@@ -30,13 +30,13 @@ It allows dynamic filtering by Gender and Age Group, helping uncover deeper cust
 
 2) Monthly Sales Trend
 
-  - Peak sales observed in March (1.93M).
+  - Peak sales observed in March (₹1.93M).
   - Gradual decline towards year-end (Nov–Dec).
   - Indicates strong seasonal demand in early months.
   
 3) B2C vs B2B Analysis
 
-  - B2C dominates sales (~21M), accounting for almost the entire revenue.
+  - B2C dominates sales (₹21M), accounting for almost the entire revenue.
   - B2B contribution is very low, indicating untapped business opportunities.
 
 4) Order Status Insights
@@ -46,7 +46,7 @@ It allows dynamic filtering by Gender and Age Group, helping uncover deeper cust
 
 5️) Category Performance
 
-  - Set category (~10.5M) dominates sales significantly.
+  - Set category (₹10.5M) dominates sales significantly.
   - Followed by Kurta and Western Dress.
   - Categories like Footwear and Jeans contribute very little.
 
