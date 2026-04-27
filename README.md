@@ -50,7 +50,7 @@ It allows dynamic filtering by Gender and Age Group, helping uncover deeper cust
 
 4) Order Status Insights
 
-  - 93% orders are successfully delivered, showing strong operational efficiency.
+  - 92% orders are successfully delivered, showing strong operational efficiency.
   - Very low percentage of returns, cancellations, and refunds, which is a positive indicator.
 
 5️) Category Performance
